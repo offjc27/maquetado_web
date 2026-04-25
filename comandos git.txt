@@ -20,3 +20,6 @@ git push -u origin main
 
 git status
 (comprueba el estado de la rama)
+
+git remote add origin https://github.com/offjc27/maquetado_web.git
+(Añade la dirección de su repositorio se hace o ejecuta una única vez) 
